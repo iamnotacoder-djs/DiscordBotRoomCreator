@@ -1,0 +1,69 @@
+{
+  "bot_name": {
+    "ru": "RoomCreator",
+    "en": "RoomCreator"
+  },"bot_description": {
+    "ru": "Еще один простой Room Creator. Бот позволяет создавать персональные голосовые чаты и управлять ими. Создание голосовых каналов, которые автоматические удаляются, когда не используются, чтобы содержать сервер в чистоте и порядке!\n\nПодробнее о RoomCreator: http://rcbot.idaspin.ru/",
+    "en": "Just a simple Room Creator. This is a bot for creation personal voice channels. Create temporary voice channels that are automatically deleted when not in use and keep your server clean and tidy!\n\nMore about RoomCreator: http://rcbot.idaspin.ru/"
+  }, "admin_menu": {
+    "ru": "Админ-меню",
+    "en": "Admin menu"
+  }, "admin_menu_description": {
+    "ru": "**Текущие настройки**\n> Название: {0}\n> Язык: {1}\n\n**Категории**\n```— Категория ~ {2} (id: {3}) \n— Текстовый канал ~ {4} (id: {5}) \n— Голосовой канал ~ {6} (id: {7})```",
+    "en": "**Current settings**\n> Name: {0}\n> Langugage: {1}\n\n**Categories**\n```— Category channel ~ {2} (id: {3}) \n— Text channel ~ {4} (id: {5}) \n— Voice channel ~ {6} (id: {7})```"
+  }, "lang_switch": {
+    "ru": "Switch to English",
+    "en": "Преключить на Русский"
+  }, "lang_switch_emoji": {
+    "ru": "🇬🇧",
+    "en": "🇷🇺"
+  }, "category": {
+    "ru": "Настройки Категории",
+    "en": "Setup category"
+  }, "category_description": {
+    "ru": "Для работы RoomCreator необходимо подготовить 3 канала Категории (**Вкладка**, где каналы будут создаваться. **Текстовый** для уведомлений. **Голосовой** - по входу в который, комната будет создаваться.",
+    "en": "For RoomCreator to work, it is necessary to prepare 3 channels of the Category (**Tab**, where the channels will be created. **Text** for notifications. **Voice** - at the entrance to which the room will be created."
+  }, "category_folder": {
+    "ru": "Установить категорию",
+    "en": "Setup category"
+  }, "category_text": {
+    "ru": "Текстовый канал",
+    "en": "Text channel"
+  }, "category_voice": {
+    "ru": "Голосовой канал",
+    "en": "Voice channel"
+  }, "category_error": {
+    "ru": "Канал не найден",
+    "en": "Channel not found"
+  }, "channel_name": {
+    "ru": "Чат",
+    "en": "Chat"
+  }, "channel_notification": {
+    "ru": "Голосовой канал создан. Для приглашения используй ссылку:\n{0}",
+    "en": "Voice chat has been created. To invite to it use the link:\n{0}"
+  }, "channel_modal_name": {
+    "ru": "Введи название канала",
+    "en": "Enter channel name"
+  }, "error_channel_name": {
+    "ru": "Для измененения названия канала необходимо быть его создателем.",
+    "en": "To change the name of a channel, you must be its creator."
+  }, "success_channel_name": {
+    "ru": "Название канала изменено.",
+    "en": "Channel's name has been changed."
+  }, "error_channel_limit": {
+    "ru": "Для измененения лимита участников канала необходимо быть его создателем.",
+    "en": "To change the user limit of a channel, you must be its creator."
+  }, "success_channel_limit": {
+    "ru": "Лимит участников канала изменен.",
+    "en": "Channel's user limit has been changed."
+  }, "channel_modal_limit": {
+    "ru": "Введи кол-во участников",
+    "en": "Enter the number of users"
+  }, "error_channel_lock": {
+    "ru": "Для изменения настроек доступа к каналу необходимо быть его создателем.",
+    "en": "To change the access settings to the channel, you must be its creator."
+  }, "success_channel_lock": {
+    "ru": "Настройки доступа к каналу изменены.",
+    "en": "Channel access settings changed."
+  }
+}

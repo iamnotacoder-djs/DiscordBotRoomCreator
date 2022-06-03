@@ -1,0 +1,10 @@
+{
+  "token": "token",
+  "prefix": "!",
+  
+  "embed_color": "#ff6a6a",
+  "bot_tag": "RoomCreator",
+  "bot_name": "RoomCreator",
+  
+  "debug": true
+}

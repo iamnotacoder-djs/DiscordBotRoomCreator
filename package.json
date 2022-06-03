@@ -1,0 +1,16 @@
+{
+  "name": "roomcreatorbot-v3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot_roomcreator_v3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "fs": "^0.0.1-security",
+    "quick.db": "^7.1.3"
+  }
+}
