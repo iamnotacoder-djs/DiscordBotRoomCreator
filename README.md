@@ -1,6 +1,6 @@
 # DiscordBotRoomCreator
 
-Фактически исходный код данного бота является доп. материалом для видео об использовании хандлера команд представленном в [DiscordBotIda](https://github.com/idaspin/DiscordBotIda).
+Фактически исходный код данного бота является доп. материалом для видео об использовании хандлера команд представленном в [DiscordBotIda](https://github.com/iamnotacoder-djs/DiscordBotIda).
 
 ## Присоединяйся к сообществу
 
